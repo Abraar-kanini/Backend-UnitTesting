@@ -13,6 +13,8 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddDbContext<EmployeeDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("PracticeTesting")));
 builder.Services.AddScoped<IEmployee, EmployeeRepo>();
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

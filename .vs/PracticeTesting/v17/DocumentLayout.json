@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Welcome\\source\\repos\\PracticeTesting\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D48CA9B8-B41C-4632-BC43-D2389E60491D}|PracticeTesting\\PracticeTesting.csproj|c:\\users\\welcome\\source\\repos\\practicetesting\\practicetesting\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48CA9B8-B41C-4632-BC43-D2389E60491D}|PracticeTesting\\PracticeTesting.csproj|solutionrelative:practicetesting\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48CA9B8-B41C-4632-BC43-D2389E60491D}|PracticeTesting\\PracticeTesting.csproj|c:\\users\\welcome\\source\\repos\\practicetesting\\practicetesting\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48CA9B8-B41C-4632-BC43-D2389E60491D}|PracticeTesting\\PracticeTesting.csproj|solutionrelative:practicetesting\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48CA9B8-B41C-4632-BC43-D2389E60491D}|PracticeTesting\\PracticeTesting.csproj|c:\\users\\welcome\\source\\repos\\practicetesting\\practicetesting\\dto\\groupclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48CA9B8-B41C-4632-BC43-D2389E60491D}|PracticeTesting\\PracticeTesting.csproj|solutionrelative:practicetesting\\dto\\groupclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48CA9B8-B41C-4632-BC43-D2389E60491D}|PracticeTesting\\PracticeTesting.csproj|c:\\users\\welcome\\source\\repos\\practicetesting\\practicetesting\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D48CA9B8-B41C-4632-BC43-D2389E60491D}|PracticeTesting\\PracticeTesting.csproj|solutionrelative:practicetesting\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A4A50A5F-5588-4F7D-8BE7-28A755ECD970}|ApiTests\\ApiTests.csproj|c:\\users\\welcome\\source\\repos\\practicetesting\\apitests\\employeecontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4A50A5F-5588-4F7D-8BE7-28A755ECD970}|ApiTests\\ApiTests.csproj|solutionrelative:apitests\\employeecontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D48CA9B8-B41C-4632-BC43-D2389E60491D}|PracticeTesting\\PracticeTesting.csproj|c:\\users\\welcome\\source\\repos\\practicetesting\\practicetesting\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D48CA9B8-B41C-4632-BC43-D2389E60491D}|PracticeTesting\\PracticeTesting.csproj|solutionrelative:practicetesting\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D48CA9B8-B41C-4632-BC43-D2389E60491D}|PracticeTesting\\PracticeTesting.csproj|c:\\users\\welcome\\source\\repos\\practicetesting\\practicetesting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48CA9B8-B41C-4632-BC43-D2389E60491D}|PracticeTesting\\PracticeTesting.csproj|solutionrelative:practicetesting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48CA9B8-B41C-4632-BC43-D2389E60491D}|PracticeTesting\\PracticeTesting.csproj|c:\\users\\welcome\\source\\repos\\practicetesting\\practicetesting\\data\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48CA9B8-B41C-4632-BC43-D2389E60491D}|PracticeTesting\\PracticeTesting.csproj|solutionrelative:practicetesting\\data\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D48CA9B8-B41C-4632-BC43-D2389E60491D}|PracticeTesting\\PracticeTesting.csproj|c:\\users\\welcome\\source\\repos\\practicetesting\\practicetesting\\repository\\employeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,24 +43,8 @@
       "RelativeMoniker": "D:0:0:{D48CA9B8-B41C-4632-BC43-D2389E60491D}|PracticeTesting\\PracticeTesting.csproj|solutionrelative:practicetesting\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D48CA9B8-B41C-4632-BC43-D2389E60491D}|PracticeTesting\\PracticeTesting.csproj|c:\\users\\welcome\\source\\repos\\practicetesting\\practicetesting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D48CA9B8-B41C-4632-BC43-D2389E60491D}|PracticeTesting\\PracticeTesting.csproj|solutionrelative:practicetesting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Welcome\\source\\repos\\PracticeTesting\\PracticeTesting\\Migrations\\20240709045053_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PracticeTesting\\Migrations\\20240709045053_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D48CA9B8-B41C-4632-BC43-D2389E60491D}|PracticeTesting\\PracticeTesting.csproj|c:\\users\\welcome\\source\\repos\\practicetesting\\practicetesting\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D48CA9B8-B41C-4632-BC43-D2389E60491D}|PracticeTesting\\PracticeTesting.csproj|solutionrelative:practicetesting\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D48CA9B8-B41C-4632-BC43-D2389E60491D}|PracticeTesting\\PracticeTesting.csproj|c:\\users\\welcome\\source\\repos\\practicetesting\\practicetesting\\data\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D48CA9B8-B41C-4632-BC43-D2389E60491D}|PracticeTesting\\PracticeTesting.csproj|solutionrelative:practicetesting\\data\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D48CA9B8-B41C-4632-BC43-D2389E60491D}|PracticeTesting\\PracticeTesting.csproj|c:\\users\\welcome\\source\\repos\\practicetesting\\practicetesting\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D48CA9B8-B41C-4632-BC43-D2389E60491D}|PracticeTesting\\PracticeTesting.csproj|solutionrelative:practicetesting\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D48CA9B8-B41C-4632-BC43-D2389E60491D}|PracticeTesting\\PracticeTesting.csproj|c:\\users\\welcome\\source\\repos\\practicetesting\\practicetesting\\migrations\\20240709045053_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D48CA9B8-B41C-4632-BC43-D2389E60491D}|PracticeTesting\\PracticeTesting.csproj|solutionrelative:practicetesting\\migrations\\20240709045053_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,80 +70,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EmployeeControllerTest.cs",
-              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\PracticeTesting\\ApiTests\\EmployeeControllerTest.cs",
-              "RelativeDocumentMoniker": "ApiTests\\EmployeeControllerTest.cs",
-              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\PracticeTesting\\ApiTests\\EmployeeControllerTest.cs",
-              "RelativeToolTip": "ApiTests\\EmployeeControllerTest.cs",
-              "ViewState": "AQIAAGkAAAAAAAAAAAAcwHQAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T06:07:20.168Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "EmployeeRepo.cs",
-              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\PracticeTesting\\PracticeTesting\\Repository\\EmployeeRepo.cs",
-              "RelativeDocumentMoniker": "PracticeTesting\\Repository\\EmployeeRepo.cs",
-              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\PracticeTesting\\PracticeTesting\\Repository\\EmployeeRepo.cs",
-              "RelativeToolTip": "PracticeTesting\\Repository\\EmployeeRepo.cs",
-              "ViewState": "AQIAADUAAAAAoJmZmZnJv0QAAAAMAAAA",
+              "Title": "GroupClass.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\PracticeTesting\\PracticeTesting\\DTO\\GroupClass.cs",
+              "RelativeDocumentMoniker": "PracticeTesting\\DTO\\GroupClass.cs",
+              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\PracticeTesting\\PracticeTesting\\DTO\\GroupClass.cs",
+              "RelativeToolTip": "PracticeTesting\\DTO\\GroupClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T05:20:08.932Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IEmployee.cs",
-              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\PracticeTesting\\PracticeTesting\\Repository\\IEmployee.cs",
-              "RelativeDocumentMoniker": "PracticeTesting\\Repository\\IEmployee.cs",
-              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\PracticeTesting\\PracticeTesting\\Repository\\IEmployee.cs",
-              "RelativeToolTip": "PracticeTesting\\Repository\\IEmployee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T05:17:35.554Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\PracticeTesting\\PracticeTesting\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "PracticeTesting\\Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\PracticeTesting\\PracticeTesting\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "PracticeTesting\\Controllers\\EmployeeController.cs",
-              "ViewState": "AQIAADoAAAAAAAAAAAAgwEwAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T04:51:44.982Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\PracticeTesting\\PracticeTesting\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "PracticeTesting\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\PracticeTesting\\PracticeTesting\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "PracticeTesting\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T05:47:42.55Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20240709045053_init.cs",
-              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\PracticeTesting\\PracticeTesting\\Migrations\\20240709045053_init.cs",
-              "RelativeDocumentMoniker": "PracticeTesting\\Migrations\\20240709045053_init.cs",
-              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\PracticeTesting\\PracticeTesting\\Migrations\\20240709045053_init.cs",
-              "RelativeToolTip": "PracticeTesting\\Migrations\\20240709045053_init.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T04:50:53.895Z",
+              "WhenOpened": "2024-08-07T14:30:03.762Z",
               "EditorCaption": ""
             },
             {
@@ -150,49 +89,123 @@
               "RelativeDocumentMoniker": "PracticeTesting\\Program.cs",
               "ToolTip": "C:\\Users\\Welcome\\source\\repos\\PracticeTesting\\PracticeTesting\\Program.cs",
               "RelativeToolTip": "PracticeTesting\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA2AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-09T04:48:23.506Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "EmployeeDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\PracticeTesting\\PracticeTesting\\Data\\EmployeeDbContext.cs",
-              "RelativeDocumentMoniker": "PracticeTesting\\Data\\EmployeeDbContext.cs",
-              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\PracticeTesting\\PracticeTesting\\Data\\EmployeeDbContext.cs",
-              "RelativeToolTip": "PracticeTesting\\Data\\EmployeeDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA2AAAA",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\PracticeTesting\\PracticeTesting\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "PracticeTesting\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\PracticeTesting\\PracticeTesting\\Models\\Employee.cs",
+              "RelativeToolTip": "PracticeTesting\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T04:47:10.895Z",
+              "WhenOpened": "2024-07-09T04:44:30.068Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\PracticeTesting\\PracticeTesting\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "PracticeTesting\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\PracticeTesting\\PracticeTesting\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "PracticeTesting\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAALQAAAAAzMzMzMwUwLwAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T04:51:44.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\PracticeTesting\\ApiTests\\EmployeeControllerTest.cs",
+              "RelativeDocumentMoniker": "ApiTests\\EmployeeControllerTest.cs",
+              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\PracticeTesting\\ApiTests\\EmployeeControllerTest.cs",
+              "RelativeToolTip": "ApiTests\\EmployeeControllerTest.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAIA5wBgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:07:20.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\PracticeTesting\\PracticeTesting\\appsettings.json",
               "RelativeDocumentMoniker": "PracticeTesting\\appsettings.json",
               "ToolTip": "C:\\Users\\Welcome\\source\\repos\\PracticeTesting\\PracticeTesting\\appsettings.json",
               "RelativeToolTip": "PracticeTesting\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-07-09T04:45:58.664Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\PracticeTesting\\PracticeTesting\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "PracticeTesting\\Models\\Employee.cs",
-              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\PracticeTesting\\PracticeTesting\\Models\\Employee.cs",
-              "RelativeToolTip": "PracticeTesting\\Models\\Employee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA3AAAA",
+              "DocumentIndex": 6,
+              "Title": "EmployeeDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\PracticeTesting\\PracticeTesting\\Data\\EmployeeDbContext.cs",
+              "RelativeDocumentMoniker": "PracticeTesting\\Data\\EmployeeDbContext.cs",
+              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\PracticeTesting\\PracticeTesting\\Data\\EmployeeDbContext.cs",
+              "RelativeToolTip": "PracticeTesting\\Data\\EmployeeDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T04:44:30.068Z",
+              "WhenOpened": "2024-07-09T04:47:10.895Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\PracticeTesting\\PracticeTesting\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "PracticeTesting\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\PracticeTesting\\PracticeTesting\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "PracticeTesting\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T05:47:42.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\PracticeTesting\\PracticeTesting\\Repository\\IEmployee.cs",
+              "RelativeDocumentMoniker": "PracticeTesting\\Repository\\IEmployee.cs",
+              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\PracticeTesting\\PracticeTesting\\Repository\\IEmployee.cs",
+              "RelativeToolTip": "PracticeTesting\\Repository\\IEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T05:17:35.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\PracticeTesting\\PracticeTesting\\Repository\\EmployeeRepo.cs",
+              "RelativeDocumentMoniker": "PracticeTesting\\Repository\\EmployeeRepo.cs",
+              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\PracticeTesting\\PracticeTesting\\Repository\\EmployeeRepo.cs",
+              "RelativeToolTip": "PracticeTesting\\Repository\\EmployeeRepo.cs",
+              "ViewState": "AQIAADUAAAAAoJmZmZnJv0QAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T05:20:08.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240709045053_init.cs",
+              "DocumentMoniker": "C:\\Users\\Welcome\\source\\repos\\PracticeTesting\\PracticeTesting\\Migrations\\20240709045053_init.cs",
+              "RelativeDocumentMoniker": "PracticeTesting\\Migrations\\20240709045053_init.cs",
+              "ToolTip": "C:\\Users\\Welcome\\source\\repos\\PracticeTesting\\PracticeTesting\\Migrations\\20240709045053_init.cs",
+              "RelativeToolTip": "PracticeTesting\\Migrations\\20240709045053_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T04:50:53.895Z"
             }
           ]
         }

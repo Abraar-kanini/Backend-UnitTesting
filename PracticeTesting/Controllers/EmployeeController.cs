@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
 using PracticeTesting.Data;
+using PracticeTesting.DTO;
 using PracticeTesting.Models;
 using PracticeTesting.Repository;
 using System.Globalization;
@@ -93,7 +94,7 @@ namespace PracticeTesting.Controllers
         public async Task<IActionResult> GetById1([FromRoute] Guid id)
         {
             var IsIdExist = await employeeDbContext.employees.FindAsync(id);
-            if(IsIdExist == null)
+            if (IsIdExist == null)
             {
                 ModelState.AddModelError("", "Id Is Not Exist");
             }
@@ -120,7 +121,7 @@ namespace PracticeTesting.Controllers
 
         public async Task<IActionResult> AddListOfEmployees(List<Employee> employees)
         {
-            foreach(var employee in employees)
+            foreach (var employee in employees)
             {
                 var addnewemployee = new Employee()
                 {
@@ -138,17 +139,17 @@ namespace PracticeTesting.Controllers
         [HttpGet("Filter")]
         public async Task<IActionResult> Filter([FromQuery] string? filterOn, [FromQuery] string? filterQuery)
         {
-            if (string.IsNullOrWhiteSpace(filterOn) || string.IsNullOrWhiteSpace(filterQuery)){
+            if (string.IsNullOrWhiteSpace(filterOn) || string.IsNullOrWhiteSpace(filterQuery)) {
                 ModelState.AddModelError("", "error");
             }
 
-            var result =  employeeDbContext.employees.AsQueryable();
+            var result = employeeDbContext.employees.AsQueryable();
 
             if (filterOn.Equals("employeename", StringComparison.OrdinalIgnoreCase)) {
 
                 result = result.Where(a => a.EmployeeName.Contains(filterQuery));
-            
-            
+
+
             }
 
             return Ok(result);
@@ -159,9 +160,9 @@ namespace PracticeTesting.Controllers
 
         public async Task<IActionResult> Linq()
         {
-            var result =  employeeDbContext.employees.AsQueryable();
+            var result = employeeDbContext.employees.AsQueryable();
 
-            result = result.OrderBy(a =>a.EmployeeName);
+            result = result.OrderBy(a => a.EmployeeName);
             return Ok(result);
         }
 
@@ -170,7 +171,7 @@ namespace PracticeTesting.Controllers
         {
             var result = employeeDbContext.employees.AsQueryable();
 
-            result = result.Where(a => a.EmployeeName.Length > 5).OrderByDescending(a=>a.EmployeeName);
+            result = result.Where(a => a.EmployeeName.Length > 5).OrderByDescending(a => a.EmployeeName);
 
             return Ok(result);
         }
@@ -191,6 +192,21 @@ namespace PracticeTesting.Controllers
         {
             var parameter = new SqlParameter("@value", id);
             return await employeeDbContext.employees.FromSqlRaw("exec UpdatingByInput @value", parameter).ToListAsync();
+        }
+
+        [HttpPut("updateDepartment/{id:Guid}")]
+        public async Task<IActionResult> UpdateDepartment([FromRoute] Guid id, [FromBody] UpdateEmployeeDepartmentDto updateEmployeeDepartmentDto)
+        {
+            var isEmloyeeExist = await employeeDbContext.employees.FindAsync(id);
+            if (isEmloyeeExist == null)
+            {
+                return BadRequest("Not Found");
+            }
+            isEmloyeeExist.EmployeeDepartment=updateEmployeeDepartmentDto.EmployeeDepartment;
+            employeeDbContext.employees.Update(isEmloyeeExist);
+            await employeeDbContext.SaveChangesAsync();
+            return Ok();
+
         }
     }
 }

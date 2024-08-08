@@ -4528,11 +4528,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Welcome\\source\\repos\\PracticeTesting\\PracticeTesting\\PracticeTesting.csproj",
+      "projectUniqueName": "C:\\Users\\Welcome\\Desktop\\Backend-UnitTesting\\PracticeTesting\\PracticeTesting.csproj",
       "projectName": "PracticeTesting",
-      "projectPath": "C:\\Users\\Welcome\\source\\repos\\PracticeTesting\\PracticeTesting\\PracticeTesting.csproj",
+      "projectPath": "C:\\Users\\Welcome\\Desktop\\Backend-UnitTesting\\PracticeTesting\\PracticeTesting.csproj",
       "packagesPath": "C:\\Users\\Welcome\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Welcome\\source\\repos\\PracticeTesting\\PracticeTesting\\obj\\",
+      "outputPath": "C:\\Users\\Welcome\\Desktop\\Backend-UnitTesting\\PracticeTesting\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Welcome\\AppData\\Roaming\\NuGet\\NuGet.Config",

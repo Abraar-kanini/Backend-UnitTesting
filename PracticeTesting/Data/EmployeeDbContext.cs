@@ -11,5 +11,7 @@ namespace PracticeTesting.Data
         }
 
         public DbSet<Employee> employees { get; set; }
+
+        public DbSet<Image> images { get; set; }
     }
 }

@@ -8742,11 +8742,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Welcome\\source\\repos\\PracticeTesting\\ApiTests\\ApiTests.csproj",
+      "projectUniqueName": "C:\\Users\\Welcome\\Desktop\\Backend-UnitTesting\\ApiTests\\ApiTests.csproj",
       "projectName": "ApiTests",
-      "projectPath": "C:\\Users\\Welcome\\source\\repos\\PracticeTesting\\ApiTests\\ApiTests.csproj",
+      "projectPath": "C:\\Users\\Welcome\\Desktop\\Backend-UnitTesting\\ApiTests\\ApiTests.csproj",
       "packagesPath": "C:\\Users\\Welcome\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Welcome\\source\\repos\\PracticeTesting\\ApiTests\\obj\\",
+      "outputPath": "C:\\Users\\Welcome\\Desktop\\Backend-UnitTesting\\ApiTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Welcome\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8764,8 +8764,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Welcome\\source\\repos\\PracticeTesting\\PracticeTesting\\PracticeTesting.csproj": {
-              "projectPath": "C:\\Users\\Welcome\\source\\repos\\PracticeTesting\\PracticeTesting\\PracticeTesting.csproj"
+            "C:\\Users\\Welcome\\Desktop\\Backend-UnitTesting\\PracticeTesting\\PracticeTesting.csproj": {
+              "projectPath": "C:\\Users\\Welcome\\Desktop\\Backend-UnitTesting\\PracticeTesting\\PracticeTesting.csproj"
             }
           }
         }

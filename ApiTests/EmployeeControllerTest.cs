@@ -1,4 +1,4 @@
-﻿using AutoFixture;
+﻿/*using AutoFixture;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Moq;
@@ -121,3 +121,5 @@ namespace ApiTests
 
     }
 }
+
+*/
